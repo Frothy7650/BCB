@@ -1,0 +1,8 @@
+{
+  "name": "BCB",
+  "version": "1.0.0",
+  "description": "Basic C++ build system.",
+  "repo": "https://github.com/Frothy7650/BCB.git",
+  "language": "cpp",
+  "os": ["linux", "macos"]
+}

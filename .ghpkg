@@ -2,6 +2,6 @@
   "name": "BCB",
   "version": "1.0.0",
   "description": "Basic C++ build system.",
-  "dependencies": ["g++"]
+  "dependencies": ["g++"],
   "os": ["linux", "macos"]
 }

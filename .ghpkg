@@ -1,7 +1,8 @@
 {
   "name": "BCB",
   "version": "1.0.0",
-  "description": "Basic C++ build system.",
+  "description": "Basic ChatBot",
+  "build": "g++ /tmp/BCB/main.cpp -o /tmp/BCB/BCB.bin"
   "dependencies": ["g++"],
   "os": ["linux", "macos"]
 }

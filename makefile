@@ -1,7 +1,5 @@
 build:
-	g++ main.cpp -o BCB.bin
-clean:
-	rm -f *.bin *.exe
+	g++ main.cpp -o BCB
 run:
 	./BCB
 buildWin:

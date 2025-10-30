@@ -2,7 +2,7 @@
   "name": "BCB",
   "version": "1.0.0",
   "description": "Basic ChatBot",
-  "build": "g++ /tmp/BCB/main.cpp -o /tmp/BCB/BCB.bin",
+  "build": "g++ /tmp/BCB/main.cpp -o /tmp/BCB/BCB",
   "dependencies": ["g++"],
   "os": ["linux", "macos"]
 }
